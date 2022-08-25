@@ -1,1 +1,1 @@
-“this is really cool amm learning how to query”
+“this is really cool am learning how to query”
